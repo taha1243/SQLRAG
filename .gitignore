@@ -1,0 +1,4 @@
+.env
+server/src/.env
+server/.env
+*.env
