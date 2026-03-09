@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - deploy-version
-    paths:
-      - 'server/**'
 
 jobs:
   build-and-deploy:
